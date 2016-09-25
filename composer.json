@@ -1,0 +1,14 @@
+{
+    "name": "richartkeil/array2xml",
+    "description": "A small package to convert a php array into a xml object",
+    "keywords": ["laravel", "xml", "array", "conversion"],
+    "license": "APL 2.0",
+    "authors": [
+        {
+            "name": "Richard Keil",
+            "email": "richartkeil@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
